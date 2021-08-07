@@ -1,0 +1,10 @@
+h1{
+    font-size: 20px;
+}
+p{
+    color: #333;
+}
+div{
+    display: flex;
+    align-items: center;
+}
